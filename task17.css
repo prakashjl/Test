@@ -1,0 +1,74 @@
+.container{
+        height: 98.1vh;
+        width: 100%;
+        background-color: rgb(159, 164, 164);
+        position: relative;
+       
+        
+       
+        
+
+}
+
+
+.box1{
+        height: 650px;
+        width: 550px;
+        
+        background: linear-gradient(rgb(165, 98, 228), rgb(212, 212, 214));
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 90px;
+        margin-left: 200px;
+       
+}
+.box2{
+        height: 650px;
+        width: 550px;
+        background-color: rgb(194, 170, 177);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 0;
+        margin-left: 1100px;
+        letter-spacing: 1px;
+        
+
+}
+label{
+        font-size: 20px;
+        color: white;
+        opacity: .8;
+       text-shadow: 2px 2px 2px 2px rgb(36, 35, 35);
+       margin-left: 30px;
+}
+input{
+        width: 80%;
+        margin: 2px auto;
+        margin-bottom: 8%;
+        border: none;
+        outline: none;
+        background: transparent;
+        color: whitesmoke;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.6);
+}
+h2{
+       
+        font-size: 40px;
+        text-decoration: underline;
+}
+p{
+        font-size: 20px;
+        margin: 50px;
+        
+
+}
+i{
+        margin-bottom: 20px;
+        margin: 30px;
+}
