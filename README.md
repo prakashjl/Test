@@ -1,2 +1,2 @@
 # Test
-simple text application
+simple test application
